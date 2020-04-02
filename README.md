@@ -1,2 +1,0 @@
-# datasciencecoursera
-Teste Coursera - Rstudio
